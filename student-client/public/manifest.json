@@ -1,0 +1,12 @@
+{
+    "name": "贵州大学学分预警系统",
+    "display": "standalone",
+    "start_url": "./index.html",
+    "icons": [
+        {
+            "src": "./icons/logo-144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ]
+}
